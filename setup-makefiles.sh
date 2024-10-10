@@ -7,7 +7,7 @@
 
 set -e
 
-DEVICE=miuicamera-rubyx
+DEVICE=miuicamera-gale
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks
